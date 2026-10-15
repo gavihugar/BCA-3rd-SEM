@@ -1,2 +1,1 @@
-# BCA-DBMS-Programs
-My BCA DBMS practical programs
+# BCA-3rd-Sem
